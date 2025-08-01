@@ -1,5 +1,9 @@
 # Clinic Management System
 
+---
+
+## Overview
+
 A web based application developed for small clinics to streamline outpatients handling. This system allows receptionists to manage patient records, book and assign appointments, and doctors to record diagnosis and prescriptions. The system also handles queue management, transaction history, and payment tracking efficiently.
 
 ---
@@ -11,6 +15,22 @@ A web based application developed for small clinics to streamline outpatients ha
 <img width="1919" height="835" alt="image" src="https://github.com/user-attachments/assets/d7463b6c-74af-4c35-a865-dcdb6e068b01" />
 
 ---
+
+## Screenshots of the Interface
+<img width="1279" height="836" alt="image" src="https://github.com/user-attachments/assets/21e21eaf-e2a1-4438-a4fd-526a755ff29d" />
+<img width="1815" height="845" alt="image" src="https://github.com/user-attachments/assets/f8eb2316-09d1-4704-97c7-81dbdd70e6e9" />
+<img width="1222" height="688" alt="image" src="https://github.com/user-attachments/assets/654be6de-4730-4272-ae02-f0ae8b0d4d6f" />
+<img width="786" height="929" alt="image" src="https://github.com/user-attachments/assets/cd80f995-b2d1-4e07-a9c3-37c9d4f76f28" />
+<img width="1083" height="823" alt="image" src="https://github.com/user-attachments/assets/be9d8c2b-d8c5-45aa-9ca5-7582f9a16039" />
+<img width="1747" height="806" alt="image" src="https://github.com/user-attachments/assets/eb4647b1-db32-4e11-8b89-a7aa7bf94146" />
+<img width="1262" height="760" alt="image" src="https://github.com/user-attachments/assets/edfc0d64-ad6e-48d8-8175-a9e26811757d" />
+<img width="1846" height="833" alt="image" src="https://github.com/user-attachments/assets/11f1f4a9-bec5-4783-980c-25a10b52ebfa" />
+<img width="1907" height="699" alt="image" src="https://github.com/user-attachments/assets/cbe39c8f-e2f4-4a0f-bc34-c3194a7a7eba" />
+<img width="1291" height="792" alt="image" src="https://github.com/user-attachments/assets/01349a3f-d50e-4f43-9d8e-c2c223b232d0" />
+<img width="1733" height="859" alt="image" src="https://github.com/user-attachments/assets/f2ed7b4e-ca65-4ae7-b233-2679a0ecf590" />
+<img width="1495" height="849" alt="image" src="https://github.com/user-attachments/assets/669a7e7e-1d2a-4012-8e7d-bb3e526b0620" />
+<img width="1489" height="876" alt="image" src="https://github.com/user-attachments/assets/f265b48a-efc9-4b81-bd47-199d290ab859" />
+<img width="1868" height="799" alt="image" src="https://github.com/user-attachments/assets/91b7f1cb-2de2-44db-81d5-c5aba341d457" />
 
 ---
 
@@ -97,8 +117,5 @@ To streamline the management of out patients in a small clinic by providing:
 
 ---
 
-## 💼 How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/clinic-management-system.git
+## Contributors
+Pranesh Kumar S P | Pranaav U | Paranthagan S | Padmapriya C | Piriyadharshini A | Palle Sai Sowjanya
