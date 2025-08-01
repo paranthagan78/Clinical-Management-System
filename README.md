@@ -3,6 +3,15 @@
 A web based application developed for small clinics to streamline outpatients handling. This system allows receptionists to manage patient records, book and assign appointments, and doctors to record diagnosis and prescriptions. The system also handles queue management, transaction history, and payment tracking efficiently.
 
 ---
+
+## Flow Diagram
+<img width="1896" height="906" alt="image" src="https://github.com/user-attachments/assets/c0c52285-854a-4844-816e-0b81f07d4850" />
+<img width="1919" height="825" alt="image" src="https://github.com/user-attachments/assets/ab0ccc53-d223-44e6-893b-9f0b52d56b05" />
+<img width="1919" height="845" alt="image" src="https://github.com/user-attachments/assets/8b5d0a8c-20d1-45d3-bf36-5cc5328a234b" />
+<img width="1919" height="835" alt="image" src="https://github.com/user-attachments/assets/d7463b6c-74af-4c35-a865-dcdb6e068b01" />
+
+---
+
 ---
 
 ## 🚀 Objective
